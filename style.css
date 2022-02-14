@@ -1,10 +1,10 @@
 body{
     text-align: center;
-    background-image:url('minecraft.webp');
+    background-color:black;
     background-attachment: fixed;
     background-position: center;
     background-size: 150vw;
-    color: rgb(255, 0, 0);
+    color: green;
     text-shadow: 1vw;
     scrollbar-shadow-color: brown;
 }
